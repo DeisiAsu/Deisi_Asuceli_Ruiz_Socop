@@ -1,0 +1,18 @@
+*{
+    margin:0;
+    padding:0;
+    font-family:'Rajdhani', sans-serif; 
+}
+/* Paleta de colores  */
+:root{
+    --color1:#ff9557;
+    --color2:#39BFB2;
+    --color3:#ffff;
+    --color4:#F2CC39;
+    --color5:#506AD4;
+    --color6:#F2C49B ;
+}
+/* Medida unidad en em */
+body{
+    font-size: 10px;
+}

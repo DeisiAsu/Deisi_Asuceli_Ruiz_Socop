@@ -1,0 +1,52 @@
+footer{
+    width: 100%;
+    height: auto;
+    background-color:var(--color5); 
+    margin-top: 4em;
+
+}
+.Caja_IQ{
+  
+    width: 68%;
+    margin:auto;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+.Caja_IQ  li{
+    font-size: 2em;
+    color: #fff;
+    list-style: none;
+
+}.Cuadro_PRI{
+    display: flex;
+    justify-content:space-between;
+    background-color:var(--color5);
+    border-top: 1px solid  white;
+} 
+.Caja_lo1{
+    width: 30em;
+    display: flex;
+}
+.Caja_lo1 img{
+    width: 10em;
+    margin-right: 30em;
+    margin-left: 40em;
+    margin-top: 1em;
+}
+
+.Caja_Ab{
+   height: auto;
+   width:auto;
+
+}.Caja_Ab h1{
+    font-size: 2em;
+    color:black;
+    
+}.Num,.Cor{
+    margin-left: 1em;
+    margin-top: 0.5em;
+
+}

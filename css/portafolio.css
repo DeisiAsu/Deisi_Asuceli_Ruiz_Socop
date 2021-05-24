@@ -1,0 +1,106 @@
+.nav3{
+    margin: auto;
+    width: 50%;
+    height: 20em;
+}
+
+.nav3 h1{
+    padding: 1em;
+    text-align:center;
+    font-size: 5em;
+}
+.Imae{
+    width: 100%;
+    margin:auto;
+}
+.Titulo_cuadro{
+    width: 60%;
+    height: 5em;
+    margin: auto;
+    background-color: var(--color5);
+    margin-top: 2em;
+
+}
+.Titulo_cuadro h1{
+    font-size: 3em;
+    text-align: center;
+    color: #ffffff;
+}
+.fb_CUA{
+    width:95%;
+    height: auto;
+    margin: auto;
+    margin-top: 3em;
+   
+}
+.principal,.principal_1{
+    width: 90%;
+    height: 40em;
+    margin-top: 1em;
+    margin: auto;
+
+
+
+    display: flex;
+    flex-direction:row;
+    justify-content: space-between;
+
+}
+.Pri_1,.Pri_2, .Pri_3, .Pri_4, .Pri_5,.Pri_6{
+    width: 30em;
+    height: 32em;
+    margin-top: 2em;
+    margin-left: 2em;
+
+    display: flex;
+    flex-direction: column;
+    border-top:  20px solid #ffc14d;
+    box-shadow: 5px 5px 15px rgb(134, 134, 134);
+  
+}
+.Primero_1,.Primero_2, .Primero_3, .Primero_4, .Primero_5, .Primero_6{
+    width: 80%;
+    height: 20em;
+    margin-top: 2em;
+    margin-left: 2.5em;
+
+}
+.imap1, .imap2,.imap3, .imap4, .imap5 ,.imap6{
+    width: 24em;
+    float:left;
+}
+.desta_1,.desta_2,.desta_3 ,.desta_4 ,.desta_5 , .desta_6 {
+    width: 100%;
+    height: 2em;
+    text-align: center;
+    margin-top: 2em;
+
+    font-size: 1em;
+    text-decoration: none;
+}
+
+.de2, .de3, .de4,.de5,.de6, .de7{
+    width: 60%;
+    height: 2em;
+    margin:auto;
+
+    list-style: none;
+    text-decoration: none;
+    display:flex;
+  
+   
+
+}
+.de2 li,.de3 li ,.de4 li ,.de5 li ,.de6 li ,.de7 li{
+    width: 5em;
+    height: 1.4em;
+    color: #ffffff;
+    background-color: var(--color5);
+
+    margin-top: 0.2em;
+    margin-left: 1em;
+    text-align: center;
+    font-size: 1.5em;
+    text-decoration: none;
+    
+}
