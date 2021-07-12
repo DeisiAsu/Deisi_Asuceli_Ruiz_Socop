@@ -12,7 +12,7 @@
     --color5:#506AD4;
     --color6:#F2C49B ;
 }
-/* Medida unidad en em */
-body{
-    font-size: 10px;
+/* Medida unidad en rem */
+html{
+    font-size: 62.5%;
 }
