@@ -39,7 +39,7 @@
 
 }
 .Section1{
-    width: 90%;
+    width: 95%;
     height: 70rem;
     margin: auto;
     margin-top: 1rem;
@@ -50,7 +50,7 @@
   width: 30rem;
   height: 24rem;
   margin-right:auto;
-  padding-top: 50rem;
+  padding-top: 45rem;
   margin-left: 5rem;
   margin-bottom:5rem ;
   box-sizing: border-box;
@@ -70,6 +70,24 @@
     margin-top: 0.1rem;
     font-size: 1.6rem;
     text-align: center;
+    
+}
+.But{
+     width: 10rem;
+     height: 5rem;
+     border: 0px;
+     border-radius: 5px;
+     margin-top: 1rem;
+     list-style: none;
+     background-color: var(--color5);
+}
+.li_1{
+    
+    font-size: 2rem;
+    color: #fff;
+    text-align: center;
+    list-style: none;
+   
 }
 .Titulo_SeT{
     text-align: center;
@@ -274,16 +292,34 @@ footer{
           margin-top: 26rem;
            text-align:center;
            margin-bottom: 0.1rem;
-           font-size: 1.8rem;  
+           font-size: 1.5rem;  
     }
           .Frase{
             margin-bottom:1rem;
-            font-size: 1rem;
+            font-size: 0.8rem;
     }
           .correo1{
-              font-size: 1.3rem;
+              font-size: 0.8rem;
     }
 
+    .But{
+        width: 8rem;
+        height: 2.5rem;
+        border: 0px;
+        margin-top: 1rem;
+        border-radius: 5px;
+        list-style: none;
+
+        background-color: var(--color5);
+   }
+   .li_1{
+       
+       font-size: 1rem;
+       color: #fff;
+       text-align: center;
+       list-style: none;
+      
+   }
     /*cuadros*/
     .section3{
         width: 90%;
