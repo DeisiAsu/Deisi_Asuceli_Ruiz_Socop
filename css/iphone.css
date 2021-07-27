@@ -1,0 +1,227 @@
+.header{
+    background-color:var(--color5);
+    width: 100%;
+    height: 5.5rem;
+    
+}
+.Logo{
+    width: 7rem; 
+    margin-left: 2rem;
+}
+.nav a{
+    width: 8rem;
+    height: 2rem;
+    padding-top: 0.4rem;
+    background-color:var(--color1);
+    text-decoration:none;
+
+    color:black;
+    text-align: center;
+    border-radius: 0.8rem;
+    margin-right: 0.5rem;
+    border-bottom:  2.5px solid black;
+}
+.nav a li{
+    font-size: 1rem;
+}
+.Section1{
+    width: 30.5rem;
+    height: 40rem;
+    margin-top: 1rem;
+    box-sizing: border-box;
+    background-image: url(../img/imA_1.png);
+    background-size: cover;
+    
+}.CuadroF{
+        width: 10rem;
+        height: 20rem;
+        padding-top: 1rem;
+        margin-bottom:5rem ;
+        box-sizing: border-box; 
+}
+.cuadro3{
+      margin-top: 26rem;
+       text-align:center;
+       margin-bottom: 0.1rem;
+       font-size: 1.5rem;  
+}
+      .Frase{
+        margin-bottom:1rem;
+        font-size: 0.8rem;
+}
+      .correo1{
+          font-size: 0.8rem;
+}
+
+.But{
+    width: 8rem;
+    height: 2.5rem;
+    border: 0px;
+    margin-top: 1rem;
+    border-radius: 5px;
+    list-style: none;
+
+    background-color: var(--color5);
+}
+.li_1{
+   
+   font-size: 1rem;
+   color: #fff;
+   text-align: center;
+   list-style: none;
+  
+}
+/*cuadros*/
+.section3{
+    width: 90%;
+    margin: auto;
+}
+.Par_1, .Par_2,.Par_3{
+    width: 100%;
+    height: 22rem;
+    margin: auto;
+    margin-top:8rem;
+    justify-content: space-between;
+    list-style: none;
+    display:flex;
+    flex-direction: row;
+    
+}
+.img1,.img2,.img3{
+    width: 15rem;
+    height: 15rem;
+    margin-top: 5rem;
+}
+.cu1, .cu2, .cu3{
+    width: 18rem;
+    height: 18rem;   
+}
+.htmlpor,.porcss,.porjava{
+    font-size: 1.2rem;
+    padding: 1rem;
+
+   /*Algo*/
+}
+.secolor{
+    width: 40%;
+    height: 3rem;
+    margin-top: 3rem;
+    
+}.secolor p{
+    text-align: center;
+    font-size: 2rem;
+}
+
+/*Habilidades*/
+
+.Habilidades{
+    width:94% ;
+    margin: auto;
+    background-color: var(--color5);
+
+}
+.Hab_1,.Hab_2,.Hab_3,.Hab_4,.Hab_5{
+    width: 28rem;
+    height: 10rem;
+    padding: 0.8rem;
+    margin: auto;
+    justify-content: space-between;
+    list-style: none;
+    display:flex;
+    flex-direction: row;
+
+}   
+.Th_1,.Th_2,.Th_3,.Th_4,.Th_5{
+    width: 17rem;
+    height: 8rem;
+    padding: 0.5rem;
+    border-bottom:  2.5px solid black;
+    box-shadow: 15x 5px 5px rgb(209, 209, 209);
+
+}
+.Th_1 h2,.Th_2 h2,.Th_3 h2,.Th_4 h2,.Th_5 h2{
+    font-size: 2.2rem;
+    margin-bottom: 0.5rem;
+    color: #fff;
+}
+.Th_1 h5,.Th_2 h5,.Th_3 h5,.Th_4 h5,.Th_5 h5{
+    font-size: 1.8rem;
+    
+}
+.imah img,.imah2 img,.imah3 img,.imah4 img ,.imah5 img{
+ width: 8rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Section 4*/
+
+.section4{
+    width: 100%;
+    margin: auto;
+
+} .fCa{
+    width: 100%;
+    height: 26rem;
+    margin: auto;
+    margin-bottom: 3rem;
+    justify-content: space-around;
+    
+}.cuadro_pe{
+    width: 90%;
+    height: 25rem;
+    padding: 2rem;
+    font-size: 1.5rem;
+}
+.imagen1{
+    width: 13rem;
+    margin-top: 4rem;
+    
+}
+/*footer*/
+footer{
+    width: 100%;
+    height: auto;
+    background-color:var(--color5); 
+    margin-top: 1rem;
+
+}
+
+.Caja_IQ,.Cuadro_PRI{
+    width: 60%;
+    margin-top: 2rem;
+    padding:1rem ;
+}
+.Caja_IQ  li{
+    font-size: 1.4rem;
+    list-style: none;
+}.Caja_IQ h1{
+    font-size: 1.6rem;
+}
+.Caja_img{
+    width: 7rem;
+    height: 5rem;
+    display: flex;
+      
+}.Num,.Cor{
+    font-size:1.4rem ;
+   
+}
